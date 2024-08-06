@@ -1,0 +1,468 @@
+Uri: https://kard-erc.com/wp-content/uploads/2023/10/dextools_logo_full_dark-4.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\wp-content\uploads\2023\10\dextools_logo_full_dark-4.svg
+Content Type: image/svg+xml
+
+Uri: https://kard-erc.com/wp-content/uploads/2023/10/unnamed__1_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\wp-content\uploads\2023\10\unnamed__1_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/
+File Name: C:\Downloaded Web Sites\pepeonbase.live\index.htm
+Content Type: text/html
+
+Uri: https://pepeonbase.live/comments/feed/
+File Name: C:\Downloaded Web Sites\pepeonbase.live\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/css/elegant.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\css\elegant.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/css/linearicons.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\css\linearicons.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/css/themify.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\css\themify.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/ElegantIcons.eot
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/ElegantIcons.eot?
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/ElegantIcons.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/ElegantIcons.ttf
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/ElegantIcons.woff
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/Linearicons-Free.eot?
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/Linearicons-Free.eot?w118d
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/Linearicons-Free.svg?w118d
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/Linearicons-Free.ttf?w118d
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\Linearicons-Free.ttf
+Content Type: font/ttf
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/Linearicons-Free.woff2?w118d
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\Linearicons-Free.woff2
+Content Type: font/woff2
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/Linearicons-Free.woff?w118d
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\Linearicons-Free.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://pepeonbase.live/core/modules/0b08bab935/assets/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\0b08bab935\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/9392f6344c/assets/js/happy-addons-pro.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\9392f6344c\assets\js\happy-addons-pro.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/9392f6344c/assets/vendor/particles/particles.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\9392f6344c\assets\vendor\particles\particles.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ccc473c329/assets/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ccc473c329\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/ccc473c329/assets/js/elements-handlers.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ccc473c329\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ccc473c329/assets/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ccc473c329\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ccc473c329/assets/js/webpack-pro.runtime.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ccc473c329\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ccc473c329/assets/lib/lottie/lottie.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ccc473c329\assets\lib\lottie\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/d275f7e416/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\d275f7e416\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/d275f7e416/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\d275f7e416\assets\fonts\happy-icons.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/d275f7e416/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\d275f7e416\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://pepeonbase.live/core/modules/d275f7e416/assets/fonts/style.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\d275f7e416\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/d275f7e416/assets/js/happy-addons.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\d275f7e416\assets\js\happy-addons.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/d275f7e416/assets/vendor/anime/lib/anime.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\d275f7e416\assets\vendor\anime\lib\anime.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/libs/framework/assets/js/frontend-script.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/modules/elementskit-icon-pack/assets/css/ekiticons.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/css/widget-styles.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/js/animate-circle.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/js/elementor.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/ee3d367a9e/widgets/init/assets/js/widget-scripts.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\ee3d367a9e\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/animations/animations.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/eicons/css/elementor-icons.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/eicons/fonts/eicons.eot?5.29.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/eicons/fonts/eicons.svg?5.29.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/eicons/fonts/eicons.ttf?5.29.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/eicons/fonts/eicons.woff2?5.29.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/eicons/fonts/eicons.woff?5.29.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/css/brands.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/css/solid.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/swiper/v8/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/lib/waypoints/waypoints.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/modules/f65f29574d/assets/mask-shapes/circle.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\modules\f65f29574d\assets\mask-shapes\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/core/views/7a3fccae50/assets/js/hello-frontend.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\views\7a3fccae50\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/core/views/7a3fccae50/style.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\views\7a3fccae50\style.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/core/views/7a3fccae50/theme.min.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\core\views\7a3fccae50\theme.min.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/feed/
+File Name: C:\Downloaded Web Sites\pepeonbase.live\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pepeonbase.live/lib/js/dist/hooks.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\lib\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/lib/js/dist/i18n.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\lib\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/lib/js/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\lib\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/lib/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\lib\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/lib/js/jquery/ui/core.min.js
+File Name: C:\Downloaded Web Sites\pepeonbase.live\lib\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://pepeonbase.live/storage/2023/10/buttom-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2023\10\buttom-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/2023/10/buttom-removebg-preview-300x300.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2023\10\buttom-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/2023/10/buttom-removebg-preview.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2023\10\buttom-removebg-preview.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/2023/10/Coinbase-logo-square-1.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2023\10\Coinbase-logo-square-1.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/storage/2023/10/photo_2024-04-22_13-14-57-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2023\10\photo_2024-04-22_13-14-57-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/2023/10/photo_2024-04-22_13-14-57-removebg-preview-300x300.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2023\10\photo_2024-04-22_13-14-57-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/2023/10/photo_2024-04-22_13-14-57-removebg-preview.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2023\10\photo_2024-04-22_13-14-57-removebg-preview.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/2024/03/14212537_5441113-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\03\14212537_5441113-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://pepeonbase.live/storage/2024/03/14308701_5454526-scaled.jpg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\03\14308701_5454526-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://pepeonbase.live/storage/2024/03/base-logo-in-blue.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\03\base-logo-in-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/storage/2024/03/Lovelo-Black.woff
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\03\Lovelo-Black.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/storage/2024/03/Lovelo-Line-Bold.woff
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\03\Lovelo-Line-Bold.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/storage/2024/03/Lovelo-Line-Light.woff
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\03\Lovelo-Line-Light.woff
+Content Type: font/woff
+
+Uri: https://pepeonbase.live/storage/2024/03/Uniswap_Logo_and_Wordmark.svg
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\03\Uniswap_Logo_and_Wordmark.svg
+Content Type: image/svg+xml
+
+Uri: https://pepeonbase.live/storage/2024/04/1_7cYi6CIjQxYzJKQg4GXpVg-removebg-preview-300x169.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\04\1_7cYi6CIjQxYzJKQg4GXpVg-removebg-preview-300x169.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/2024/04/1_7cYi6CIjQxYzJKQg4GXpVg-removebg-preview.png
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\2024\04\1_7cYi6CIjQxYzJKQg4GXpVg-removebg-preview.png
+Content Type: image/png
+
+Uri: https://pepeonbase.live/storage/elementor/css/post-30.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\elementor\css\post-30.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/storage/elementor/css/post-74.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\elementor\css\post-74.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/storage/elementor/css/post-76.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\elementor\css\post-76.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/storage/elementor/css/post-78.css
+File Name: C:\Downloaded Web Sites\pepeonbase.live\storage\elementor\css\post-78.css
+Content Type: text/css
+
+Uri: https://pepeonbase.live/wp-json/oembed/1.0/embed?url=https:%2F%2Fpepeonbase.live%2F
+File Name: C:\Downloaded Web Sites\pepeonbase.live\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://pepeonbase.live/wp-json/oembed/1.0/embed?url=https:%2F%2Fpepeonbase.live%2F&format=xml
+File Name: C:\Downloaded Web Sites\pepeonbase.live\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
